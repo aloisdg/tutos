@@ -204,7 +204,7 @@ Graphic enviroment
 Installing i3
 ^^^^^^^^^^^^^
 
-As I sad before, we are going to use `I3 <http://i3wm.org/>`__. Take a
+As I said before, we are going to use `I3 <http://i3wm.org/>`__. Take a
 look at there webpage and guide. For make it run we will need to install
 these ``pacman -S i3 dmenu xorg xorg-xinit``. It might ask you about
 some choices - just install anything. It isn't necessary to have all
